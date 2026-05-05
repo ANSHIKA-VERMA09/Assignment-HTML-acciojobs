@@ -1,0 +1,28 @@
+*{
+    margin-left:4px
+}
+.topbox{
+    border: 2px solid black;
+    padding: 14px;
+    width: 1300px;
+    height: 200px;
+}
+
+#achor{
+
+    text-decoration: none;
+    margin-left: 4px;
+    color: black;
+    text-decoration: underline;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    margin-left: 5px;
+}
+
+ol{
+    line-height: 22.5px;
+}
+
